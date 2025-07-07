@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://link388.space/sitemap.xml
